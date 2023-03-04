@@ -1,6 +1,6 @@
 # Java-SpringBoot-Authentication
 Secure a mobile app with JSON web tokens (JWTs).
-
+![Image](https://reflectoring.io/images/posts/spring-reactive-architecture/spring-microservice_hu68ffa9876f98b8211d83fd05c9a97bce_324867_2492x0_resize_box_3.png)
 ## Here is your task
 
 Firstly, you should review the information included in the email sent by the security lead. This information will provide task details, expectations, and instructions on getting started. Reading the email should take five minutes.
