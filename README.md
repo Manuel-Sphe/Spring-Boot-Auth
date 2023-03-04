@@ -16,6 +16,5 @@ Once you’re up to speed with expectations, you should start to think about how
 7. Develop this endpoint further to validate this username and password.
 8. If the username and password are valid, return a JWT used for authentication.
 
-Once you have a development plan, begin building the authentication application. Be sure to revisit the email from the security lead, as this contains details about the input and output for this application. The development of the authentication app should take 40-45 minutes. 
 
-Finally, when finished, please submit all your code files in a compressed folder (e.g., ZIP).
+
