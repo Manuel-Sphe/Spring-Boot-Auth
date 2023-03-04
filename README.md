@@ -1,4 +1,4 @@
-# Standard-Bank-Token-Based-Authentication
+# Java-SpringBoot-Authentication
 Secure a mobile app with JSON web tokens (JWTs).
 
 ## Here is your task
